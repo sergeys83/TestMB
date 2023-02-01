@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jfj+7K4/u7l++GbuXjtKRV2YnhCKV0vPk0q3hkIWDr5Nb6peWKG4WS4xGMpwpQSNgqiKV4NbzjCvpUd1U0VECA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\serge\\MindBox-Test\\MindBox-Test\\MindBox\\MindBox.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serge\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\serge\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\serge\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
